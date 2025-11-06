@@ -1,7 +1,7 @@
 # WORKSHOP 4- Gray scale Morphology-Real-Time Bone Fracture Detection
 
-<H3>Name: DHANUSH C</H3>
-<H3>Register no: 212224040066</H3>
+<H3>Name: S.Harika</H3>
+<H3>Register no: 212224240155</H3>
 <H3>Date: 06.11.2025 </H3>
 
 # AIM:
@@ -63,7 +63,8 @@ else:
 ```
 # OUTPUT:
 
-<img width="1190" height="596" alt="Screenshot 2025-11-06 153508" src="https://github.com/user-attachments/assets/bfdc678a-8e8a-40ed-b401-7a109ab7d94a" />
+<img width="1116" height="630" alt="Screenshot 2025-11-06 213125" src="https://github.com/user-attachments/assets/e50b5c9e-bd98-4532-9f5a-f1267ae36c05" />
+
 
 
 
